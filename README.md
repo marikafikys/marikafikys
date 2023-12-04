@@ -1,12 +1,11 @@
-# Привет, меня зовут Марина!
+### About:
 
-### Обо мне:
+Hi! My name is Marina and I'm a frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-Я начинающий frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Contact with me:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/marina-yanysheva/" target="_blank">
@@ -21,7 +20,7 @@
   </div>
 
 ---
-### 💻 Технологии:
+### 💻 Stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
