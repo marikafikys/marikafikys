@@ -1,6 +1,6 @@
 # Привет, меня зовут Марина!
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
 Я начинающий frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
