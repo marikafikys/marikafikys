@@ -1,5 +1,3 @@
-### About:
-
 ### Hi! My name is Marina and I'm a frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ---
