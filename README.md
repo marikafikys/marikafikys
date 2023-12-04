@@ -1,23 +1,6 @@
 ### About:
 
-#### Hi! My name is Marina and I'm a frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-
-
----
-
-### 🤝 Contact with me:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/marina-yanysheva/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/marikafikys" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://vk.com/marikafikys" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+### Hi! My name is Marina and I'm a frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 ---
 ### 💻 Stack:
@@ -40,3 +23,19 @@
 ### ⭕ Codewars:
 
 ![codewars](https://www.codewars.com/users/marikafikys/badges/large)
+
+---
+
+### 🤝 Contact with me:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/marina-yanysheva/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/marikafikys" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/marikafikys" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
