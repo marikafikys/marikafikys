@@ -1,4 +1,8 @@
-### Hi! My name is Marina and I'm a frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+### Hi! My name is Marina and I'm a frontend developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+
+After 6 years of experience in the electric power industry and relay protection (I have a technical higher education in the specialty "Power Supply") I became interested in frontend development (I graduated from a professional retraining program). I am very happy to improve my skills in this direction and I am persistently moving towards my goal of becoming a strong specialist, so now I am spending all my strength and energy to developing my professional experience. I am learning and growing every day.
+
+At the moment I am open to everything that will allow me to gain experience and improve my knowledge in the field of web development, I will be glad to cooperate! :)
 
 ---
 ### 💻 Stack:
