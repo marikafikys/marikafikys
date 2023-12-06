@@ -57,9 +57,12 @@ At the moment I'm open to everything that will allow me to gain experience and i
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/marikafikys" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://vk.com/marikafikys" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    <a href="mailto:m.yanysheva@inbox.ru" target="_blank">
+      <img src="https://www.flaticon.com/free-icon/mail_9068642?term=mail&page=1&position=16&origin=search&related_id=9068642" width="40" height="40" alt="mail"/>
     </a>
   </div>
