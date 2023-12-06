@@ -49,11 +49,6 @@ At the moment I'm open to everything that will allow me to gain experience and i
 ![codewars](https://www.codewars.com/users/marikafikys/badges/large)
 
 ---
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marikafikys&show_icons=true&locale=en&layout=compact" alt="marikafikys" />
-</div>
-
----
 ### 🤝 Contact with me:
 
   <div id="badges">
@@ -70,3 +65,8 @@ At the moment I'm open to everything that will allow me to gain experience and i
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="mail"/>
     </a> -->
   </div>
+
+---
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marikafikys&show_icons=true&locale=en&layout=compact" alt="marikafikys" />
+</div>
