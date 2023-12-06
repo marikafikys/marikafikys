@@ -62,9 +62,6 @@ At the moment I'm open to everything that will allow me to gain experience and i
     <a href="https://vk.com/marikafikys" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="mailto:m.yanysheva@inbox.ru" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" width="40" height="40" alt="Mail"/>
-    </a>
   </div>
 
 ---
