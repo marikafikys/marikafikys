@@ -50,7 +50,7 @@ At the moment I'm open to everything that will allow me to gain experience and i
 
 ---
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marikafikys&show_icons=true&locale=en&layout=compact" alt="marikafikys" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marikafikys&show_icons=true&locale=en&layout=compact" alt="marikafikys" />
 </div>
 
 ---
