@@ -39,6 +39,7 @@ At the moment I'm open to everything that will allow me to gain experience and i
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" alt="eslint" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
@@ -61,9 +62,9 @@ At the moment I'm open to everything that will allow me to gain experience and i
     <a href="https://vk.com/marikafikys" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-<!--     <a href="mailto:m.yanysheva@inbox.ru" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="mail"/>
-    </a> -->
+    <a href="mailto:m.yanysheva@inbox.ru" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/mail.svg" alt="pug" width="40" height="40" alt="Mail"/>
+    </a>
   </div>
 
 ---
