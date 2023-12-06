@@ -42,7 +42,8 @@ At the moment I'm open to everything that will allow me to gain experience and i
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
-
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marikafikys&show_icons=true&locale=en&layout=compact" alt="marikafikys" /></p>
 ---
 ### ⭕ Codewars:
 
