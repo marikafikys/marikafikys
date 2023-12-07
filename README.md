@@ -7,6 +7,21 @@ I really want to improve my skills in this area and am persistently pursuing my 
 At the moment I'm open to everything that will allow me to gain experience and improve my knowledge, will be glad to cooperate! :)
 
 ---
+### 🤝 Contact with me:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/marina-yanysheva/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/marikafikys" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="https://vk.com/marikafikys" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+
+---
 ### 💻 Main stack:
 
 <div>
@@ -50,22 +65,6 @@ At the moment I'm open to everything that will allow me to gain experience and i
 ![codewars](https://www.codewars.com/users/marikafikys/badges/large)
 
 ---
-### 🤝 Contact with me:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/marina-yanysheva/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/marikafikys" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-    <a href="https://vk.com/marikafikys" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
-
----
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marikafikys&show_icons=true&locale=en&layout=compact" alt="marikafikys" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marikafikys&show_icons=true&locale=en" alt="marikafikys" />
 </div>
