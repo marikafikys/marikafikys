@@ -31,7 +31,7 @@ At the moment I'm open to everything that will allow me to gain experience and i
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg" title="vuejs" alt="vuejs" width="40" height="40" style="background: #000; border-radius: 50%"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/fc9f3d1e03f33a8a7edc4fbe9db6cfceec83d4025d8e8ad74205a3b63856ad55/68747470733a2f2f63646e2e7175617361722e6465762f6c6f676f2f7376672f7175617361722d6c6f676f2d66756c6c2d696e6c696e652e737667" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
