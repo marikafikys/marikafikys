@@ -35,6 +35,7 @@ At the moment I'm open to everything that will allow me to gain experience and i
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="leaflet" alt="leaflet" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp
 </div>
